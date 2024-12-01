@@ -1,0 +1,7 @@
+.venv
+models/large-v3.pt
+
+__pycache__
+.DS_Store
+examples/.DS_Store
+.idea
