@@ -7,8 +7,8 @@
 1. Клонировать репозиторий:
 
     ```bash
-    git clone https://your-repository-url.git
-    cd your-repository-name
+    git clone [https://your-repository-url.git](https://github.com/yliasolom/speech_app.git
+    cd speech_app
     ```
 
 2. Установить проект с `setup.py`:
