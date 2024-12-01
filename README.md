@@ -7,7 +7,7 @@
 1. Клонировать репозиторий:
 
     ```bash
-    git clone [https://your-repository-url.git](https://github.com/yliasolom/speech_app.git
+    git clone https://your-repository-url.git](https://github.com/yliasolom/speech_app.git
     cd speech_app
     ```
 
